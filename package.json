@@ -1,0 +1,23 @@
+{
+  "name": "test-layout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "htmllint": "^0.8.0",
+    "sass": "^1.26.3",
+    "stylelint": "^13.2.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test-layout"
+  },
+  "author": "",
+  "license": "ISC"
+}
